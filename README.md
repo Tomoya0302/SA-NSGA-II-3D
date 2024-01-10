@@ -8,6 +8,11 @@ Python both 2.x and 3.x are used
 - 3.x (verified to work with 3.10.7)
 - 2.x (verified to work with 2.7.17)
 
+Install the necessary packages with the following command:
+```
+pip install -r requirements.txt
+```
+
 ### ROS
 
 - Ubuntu 18.06
